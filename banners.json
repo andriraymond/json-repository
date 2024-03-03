@@ -1,26 +1,26 @@
 
     {
-        "ID": 1,
-        "link_banner": null,
-        "Image": "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/muatmuat-ads-NEW-01-v4.jpg"
+        ID: 1,
+        link_banner: null,
+        Image: "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/muatmuat-ads-NEW-01-v4.jpg"
     },
     {
-        "ID": 2,
-        "link_banner": null,
-        "Image": "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/WEB-720-x-180-1-v2.jpg"
+        ID: 2,
+        link_banner: null,
+        Image: "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/WEB-720-x-180-1-v2.jpg"
     },
-    {
-        "ID": 3,
-        "link_banner": null,
-        "Image": "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/Iklan-4-1-03-v2.png"
-    },
-    {
-        "ID": 4,
-        "link_banner": "https://muatmuat.com/",
-        "Image": "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/Iklan-White-Border-02-v2.png"
-    },
-    {
-        "ID": 6,
-        "link_banner": null,
-        "Image": "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/Iklan-White-Border-01-v2.png"
-    }
+    // {
+    //     "ID": 3,
+    //     "link_banner": null,
+    //     "Image": "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/Iklan-4-1-03-v2.png"
+    // },
+    // {
+    //     "ID": 4,
+    //     "link_banner": "https://muatmuat.com/",
+    //     "Image": "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/Iklan-White-Border-02-v2.png"
+    // },
+    // {
+    //     "ID": 6,
+    //     "link_banner": null,
+    //     "Image": "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/Iklan-White-Border-01-v2.png"
+    // }
