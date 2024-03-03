@@ -3,28 +3,29 @@
         {
             "ID": 1,
             "link_banner": null,
-            "Image": "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/muatmuat-ads-NEW-01-v4.jpg"
+            "Image": "https://images.tokopedia.net/img/cache/1208/NsjrJu/2024/2/27/6df23246-ad42-4959-b540-4af0f72dea2b.jpg.webp?ect=3g"
+            
         },
         {
             "ID": 2,
             "link_banner": null,
-            "Image": "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/WEB-720-x-180-1-v2.jpg"
+            "Image": "https://images.tokopedia.net/img/cache/1208/NsjrJu/2024/3/1/2eaca5a5-1d6c-44b2-b80e-fac2467a623f.jpg.webp?ect=3g"
         },
         {
             "ID": 3,
             "link_banner": null,
-            "Image": "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/Iklan-4-1-03-v2.png"
+            "Image": "https://images.tokopedia.net/img/cache/1208/NsjrJu/2024/2/29/fe82a3e2-95ed-4060-8c8c-14b1ebcd27c2.jpg.webp?ect=3g"
         },
         {
             "ID": 4,
-            "link_banner": "https://muatmuat.com/",
-            "Image": "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/Iklan-White-Border-02-v2.png"
+            "link_banner": null,
+            "Image": "https://images.tokopedia.net/img/cache/1208/NsjrJu/2024/3/1/df996045-2bd1-4221-b4ce-761b1b99f8f8.jpg.webp?ect=4g"
         },
         {
-            "ID": 6,
+            "ID": 5,
             "link_banner": null,
-            "Image": "https://azlogistik-live.s3.ap-southeast-3.amazonaws.com/content-bf/assets/promo/Iklan-White-Border-01-v2.png"
-        }
-    ],
-    "Type": "API_Promo_Primary"
+            "Image": "https://images.tokopedia.net/img/cache/1208/NsjrJu/2024/3/1/df996045-2bd1-4221-b4ce-761b1b99f8f8.jpg?ect=3g"
+        },
+        
+    ]
 }
