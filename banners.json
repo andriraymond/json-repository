@@ -3,28 +3,28 @@
         {
             "ID": 1,
             "link_banner": null,
-            "Image": ""
+            "Image": "https://andriraymond.github.io/json-repository/dummy-data/2eaca5a5-1d6c-44b2-b80e-fac2467a623f.jpg.webp"
             
         },
         {
             "ID": 2,
             "link_banner": null,
-            "Image": ""
+            "Image": "https://andriraymond.github.io/json-repository/dummy-data/2eaca6a6-2e7c-55b2-b803-fac2467a623f.webp"
         },
         {
             "ID": 3,
             "link_banner": null,
-            "Image": ""
+            "Image": "https://andriraymond.github.io/json-repository/dummy-data/6df23246-ad42-4959-b540-4af0f72dea2b.jpg.webp"
         },
         {
             "ID": 4,
             "link_banner": null,
-            "Image": ""
+            "Image": "https://andriraymond.github.io/json-repository/dummy-data/df996045-2bd1-4221-b4ce-761b1b99f8f8.jpg.webp"
         },
         {
             "ID": 5,
             "link_banner": null,
-            "Image": ""
+            "Image": "https://andriraymond.github.io/json-repository/dummy-data/fe82a3e2-95ed-4060-8c8c-14b1ebcd27c2.jpg.webp"
         }
     ]
 }
