@@ -9,10 +9,15 @@
         .container {
             display: flex;
             justify-content: center;
+            flex-direction: column;
             align-items: center;
             height: 100vh;
             width: 100%;
             gap: 20px;
+
+            .title {
+                font-weight: 600;
+            }
         }
 
         section {
@@ -45,10 +50,13 @@
         <div class="title"> JSON Repository</div>
         <div>
             <section>
-                <a href="./products.json">
-                    <button>Product</button>
+                <a href="./accounts.json">
+                    <button>Accounts</button>
                 </a>
-                <a href="../banners.json">
+                <a href="./products.json">
+                    <button>Products</button>
+                </a>
+                <a href="./banners.json">
                     <button>Banners</button>
                 </a>
             </section>

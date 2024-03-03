@@ -1,0 +1,49 @@
+[
+    {
+        "ID"        : 1,
+        "name"      : "Andri R",
+        "email"     : "andriraymondo@gmail.com",
+        "password"  : "Test123456",
+        "age"       : 25,
+        "hobbies": {
+            "indoor": [
+                "Chess"
+            ],
+            "outdoor": [
+                "Football"
+            ]
+        }
+    },
+    {
+        "ID"        : 2,
+        "name"      : "James S",
+        "email"     : "james@yopmail.com",
+        "password"  : "Password123",
+        "age"       : 18,
+        "hobbies": {
+            "indoor": [
+                "Reading",
+                "Cooking"
+            ],
+            "outdoor": [
+                "Hiking"
+            ]
+        }
+    },
+    {
+        "ID"        : 3,
+        "name"      : "admin",
+        "email"     : "admin@example.com",
+        "password"  : "SecurePass321",
+        "age"       : 20,
+        "hobbies": {
+            "indoor": [
+                "Painting",
+                "Yoga"
+            ],
+            "outdoor": [
+                "Swimming"
+            ]
+        }
+    }
+]
